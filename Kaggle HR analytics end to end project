@@ -1,3 +1,23 @@
+### Table of Contents:
+Importing the Library
+Loading the Dataset
+Check the Null Values using Visualization
+Exploratory Data Analysis
+Numerical Value Visualization
+Pairplot
+Heatmap
+Countplot
+Hist Plot ....
+Categorical Variable Visualization
+Data Preprocessing
+Handling Categorical Variables
+Data Modeling
+RandomForest CLassifier
+XGBoost Classifier
+
+
+
+
 import numpy as np # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 import matplotlib.pyplot as plt
