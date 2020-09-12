@@ -1,3 +1,27 @@
+###### Business Understanding
+Market sentiment is a qualitative measure of the attitude and mood of investors to financial markets in general, 
+and specific sectors or assets in particular. Positive and negative sentiment drive price action, 
+and also create trading and investment opportunities for active traders and long-term investors ####
+###### 
+
+######## Table of content ############ 
+
+#1. importing stock market data from kaggle
+#2. importing python libraries along with NLTK
+#3. plotting of text 
+#4. stopwords finding and wordcloud of  stopwords
+#5. Data cleaning using stemming, lemmatization, lower words, upper words, tokenization 
+#6. data partitioning 
+#7. Model building using randomforest classifier, naive bayes, SVM, ADAboost, XGboost 
+#8. Finding Accuracy, precision, recall, through confusion matrix
+#9. choose the best model ######################################################################
+
+
+
+
+
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt 
