@@ -1,3 +1,30 @@
+###############This dataset contains information about used cars listed on www.cardekho.com
+This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning.
+The columns in the given dataset are as follows:
+
+name
+year
+selling_price
+km_driven
+fuel
+seller_type
+transmission
+Owner
+
+########## Table of contents ########### 
+#1. Importing the dataset from kagglset
+#2. EDA of the data 
+#3. Checking missing and null values 
+#4. visualization of different variable with the dependent variable 
+#5. correlation matrix
+#6. Feature engineering using extratree regressor 
+#7. Model building by using randomforest regressor and RandomizedSearchCV
+#8. checking linearity of the model and R squared value 
+#9. Final prediction of the price 
+
+
+
+
 import pandas as pd
 df= pd.read_csv('cardata.csv')
 df.head()
